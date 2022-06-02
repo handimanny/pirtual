@@ -1,4 +1,4 @@
-name: h4nd1
+name: h4nd1_pc
 
 on: workflow_dispatch
 
